@@ -1,0 +1,14 @@
+/*
+Theme Name: Finexiah
+Theme URI: https://finexiah.com
+Author: Finexiah Editorial
+Author URI: https://finexiah.com
+Description: A Modern Editorial WordPress theme for tech & finance news publishers. Built on the Finexiah design system — Deep Navy authority, Sora/Inter typography, crisp editorial cards, and sticky market-insight sidebars. Optimized for long-form analysis, breaking news, and category archives.
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+Text Domain: finexiah
+Tags: news, magazine, finance, technology, custom-colors, custom-menu, featured-images, sticky-post, threaded-comments, translation-ready
+*/
+
+/* Main styles live in assets/css/main.css and are enqueued via functions.php */
